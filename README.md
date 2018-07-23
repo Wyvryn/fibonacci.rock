@@ -1,5 +1,7 @@
 # fibonacci.rock
 
-Prints out the first 35 values of the fibonacci sequence. Written in [rockstar](https://github.com/dylanbeattie/rockstar)
+Prints out the first 35 values of the fibonacci sequence. 
 
-Compile using [rockstar-js](https://github.com/wolfgang42/rockstar-js)
+Written in [rockstar](https://github.com/dylanbeattie/rockstar)
+
+Can be compiled using [rockstar-js](https://github.com/wolfgang42/rockstar-js)
